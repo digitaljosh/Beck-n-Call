@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Beck-n-Call</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="button_send">Send</string>
+    <string name="button2">Phone</string>
+    <string name="button4">Food</string>
+    <string name="button5">Ride</string>
+
 </resources>
